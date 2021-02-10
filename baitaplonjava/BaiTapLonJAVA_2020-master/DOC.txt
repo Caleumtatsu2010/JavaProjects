@@ -1,0 +1,36 @@
+Qu?n lý cho thuê d? dùng van phòng
+Bài t?p l?n L?p trình hu?ng s? ki?n v?i Công ngh? Java
+
+Thành viên nhóm:
+ **
+ **
+ **
+Ð? bài
+Công ty X c?n thi?t k? chuong trình qu?n lý cho thuê d? dùng van phòng trên d?a bàn TP. Hà n?i. Qu?n lý thông tin cho thuê d? dùng van phòng
+Ch? có thành viên c?a h? th?ng m?i du?c thuê d? dùng van phòng. Khách hàng l?n d?u d?n thuê s? du?c nh?p thông tin nhu h? tên, gi?i tính, di?n tho?i, d?a ch?, ... và các d?c di?m khác d? xác nh?n (s? ch?ng minh nhân dân/hay s? h? chi?u). Sau khi xác nh?n các thông tin chính xác v?i khách hàng, h? th?ng t?o ngay m?t th? thành viên g?i cho khách. Trên th? có ghi rõ h? tên thành viên, d?a ch?, mã th?, ngày h?t h?n (thông thu?ng th? có giá tr? trong vòng 3 nam k? t? ngày làm th?). M?i m?t khách hàng t?i cùng 1 th?i di?m ch? có 1 th? thành viên, n?u khách hàng m?t th? thành viên có th? quay l?i c?a hàng khai báo d? c?p l?i th?.
+
+Khi thuê d? dùng van phòng t?i công ty X, khách hàng có th? thuê m?t s? lu?ng b?t k? tuy nhiên nhân viên ph?i ki?m tra thông tin n?u khách hàng có d? dùng van phòng thuê tr? h?n. N?u khách hàng thành viên không có d? dùng van phòng tr? h?n thì s? du?c l?p phi?u thuê, thông tin trong phi?u thuê g?m: s? phi?u, ngày thuê, mã th? thành viên và các thông tin v? d? dùng van phòng g?m: mã d? dùng van phòng, tên d? dùng van phòng, th? lo?i, tình tr?ng, s? lu?ng, s? ngày du?c mu?n và don giá.
+
+Khi khách hàng tr? d? dùng van phòng thì nhân viên c?a hàng s? ki?m tra tình tr?ng d? dùng van phòng tr? và ghi nh?n v? vi?c tr? d? dùng van phòng c?a khách. N?u khách tr? mu?n so v?i ngày quy d?nh trên phi?u cho thuê thì h? ph?i ch?u m?t kho?n ti?n ph?t là 50% ti?n thuê/d? dùng van phòng. M?i l?n tr? khách hàng thành viên có th? tr? h?t ho?c ch? 1 ph?n trong danh sách d? dùng van phòng trong l?n thuê tru?c.
+
+Ð? theo dõi và qu?n lý nhân viên làm vi?c, công ty th?c hi?n thêm m?i vào danh sách khi có nhân viên m?i du?c tuy?n, s?a d?i thông tin khi có nh?ng bi?n d?i x?y ra và xoá b? nhân viên khi h?t h?p d?ng ho?c b? sa th?i. Các thông tin v? nhân viên g?m: Mã nhân viên, tên nhân viên, di?n tho?i liên h?, các mô t? khác. Ngoài ra d? ti?n theo dõi vi?c kinh doanh c?a công ty, hàng tu?n công ty l?p các báo cáo g?i cho ban giám d?c v? doanh thu trong tu?n, danh sách các d? dùng van phòng quá h?n, báo cáo v? d? dùng van phòng dang du?c yêu thích d? ban giám d?c có các bi?n pháp di?u ch?nh.
+
+Yêu c?u:
+Phân tích, thi?t k? ?ng d?ng qu?n lý thông tin cho công ty du l?ch v?i các d?c t? ban d?u nhu trên, các d?c t? khác có th? mô t? thêm chi ti?t.
+V? ph?n th?c hi?n chuong trình ?ng d?ng theo phân tích, thi?t k?:
+T?i thi?u chuong trình bao g?m các ch?c nang chính: Thêm, xóa, c?p nh?t, li?t kê (d?ng danh sách và chi ti?t), tìm ki?m (don gi?n, nâng cao) d? li?u c?a các b?ng (luu ý c?p nh?t, xóa d? li?u c?a các b?ng có quan h?).
+Giao di?n thân thi?n, s? d?ng các phím t?t, tab khi c?n thi?t.
+Ph?n vi?t code c?n ph?i dùng Coding Convention chung cho các ngôn ng? (Java/C#).
+Hu?ng d?n setup tru?c khi ch?y project
+Add thu vi?n c?n thi?t có trong folder library
+Thu vi?n Jcalendar
+Thu vi?n jdbc
+Ch?nh d?i font ch? n?u b? l?i ti?ng Vi?t
+Vô Edit ch?n Set Encoding ch?n UTF-8 (Ch? áp d?ng cho 1 file dang d?nh d?ng)
+Vô Window ch?n Preferences -> General -> Workspace -> Orther là UTF-8 T? d?ng di?u ch?nh cho c? project
+Cài d?t JRE 11
+Ch? cài d?t JRE 11 m?i ch?y du?c
+Thêm database
+Ch?y Copy -> paste file Script trong folder database và ch?y d? kh?i t?o csdl
+Configure SQl
+Ð?i port, tên Database, username và password cho phù h?p v?i SQL Server
