@@ -8,10 +8,25 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Register Form</title>
   </head>
   <body>
-  <h2>this is indext.jsp</h2>
-  <img src="images/eva.jpg" style="height: 800px; width: 700px">
+      <form name="login" method="post" action="hello">
+          <label for ="email">Email</label>
+          <input type="email" id="email" name="email"><br>
+
+          <label for="name" >First Name</label>
+          <input type="text" id="name" name="first"><br>
+
+          <label for="name" >Last Name</label>
+          <input type="text" id="name" name="last"><br>
+
+          <label for="age">Age</label>
+          <input type="number" id="age" name="age"><br>
+
+          <label for ="password">Password</label>
+          <input type="password" id="password" name="password">
+          <input type="submit" value="Login" />
+      </form>
   </body>
 </html>
