@@ -1,4 +1,4 @@
-<%-- Created by IntelliJ IDEA. --%>
+<%@ page import="java.util.Date" %><%-- Created by IntelliJ IDEA. --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
@@ -23,6 +23,8 @@
     <button type="submit">Calculate</button>
     <h2>Results:  ${result}</h2>
   </form>
+<p>Add Exact: <%= Math.addExact(2,3)%></p>
+  <p>Current Time: <%= new Date()%></p>
 
   </body>
 </html>
