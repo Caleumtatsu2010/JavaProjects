@@ -18,9 +18,15 @@ public class SessionServlet extends HttpServlet {
         session.setAttribute("username", username);
         session.setAttribute("password", password);
         getServletContext().getRequestDispatcher("/index3.jsp").forward(request, response);
+        if(request.getServletPath().endsWith(".jsp") && !request.getServletPath().contains("error.jsp"))
+        {
+            response.sendRedirect("calculator");
+        }
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         getServletContext().getRequestDispatcher("/index3.jsp").forward(request, response);
+
+
     }
 }

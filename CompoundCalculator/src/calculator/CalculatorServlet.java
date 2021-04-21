@@ -8,7 +8,13 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 @WebServlet(name = "CalculatorServlet", urlPatterns = "/calculator")
-public class CalculatorServlet extends HttpServlet {
+public class CalculatorServlet extends HttpServlet
+{
+    private static int count;
+    public  void init()
+    {
+        count = 0;
+    }
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String principal = request.getParameter("principal");
         String interest = request.getParameter("interest");
@@ -23,9 +29,13 @@ public class CalculatorServlet extends HttpServlet {
             double res = Calculate.calculateResults(Double.parseDouble(principal), Double.parseDouble(interest), Integer.parseInt(year), Integer.parseInt(time));
             request.setAttribute("result", res);
         }
+
         getServletContext().getRequestDispatcher("/index.jsp").forward(request, response);
     }
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
+    {
+        count++;
+        request.setAttribute("count", count);
         getServletContext().getRequestDispatcher("/index.jsp").forward(request, response);
     }
 }

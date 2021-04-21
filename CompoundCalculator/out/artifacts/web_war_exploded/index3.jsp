@@ -14,9 +14,8 @@
 <form action="session" method="post">
     <label for="username" >Username: </label>
     <input type="text" id="username" name="username">
-
-    <label for="password" >Password: </label>
-    <input type="text" id="password" name="password">
+    <br><label for="password" >Password: </label>
+    <input type="text" id="password" name="password"><br>
     <input type="submit" value="Login">
 </form>
 <p>Session : ${username}    ${password}</p>

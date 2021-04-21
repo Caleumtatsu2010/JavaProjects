@@ -25,6 +25,7 @@
   </form>
 <p>Add Exact: <%= Math.addExact(2,3)%></p>
   <p>Current Time: <%= new Date()%></p>
+  <p>You have visited this site: ${count}</p>
 
   </body>
 </html>
