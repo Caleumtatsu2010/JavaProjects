@@ -1,0 +1,7 @@
+		DANH SACH EMPLOYEE
+STT       ID        FirstName LastName  Age       Address                                      Net       Position  ApplyYear DepartId  
+-----------------------------------------------------------------
+1         0         Bình      Hà        31        NoStreetName NoDistrictName NoCityName       0         NONE      2021      0         
+2         0         Bình      Võ        49        NoStreetName NoDistrictName NoCityName       0         NONE      2021      0         
+3         0         Thanh     Lưu       49        NoStreetName NoDistrictName NoCityName       0         NONE      2021      0         
+4         0         Long      Nguyễn    75        NoStreetName NoDistrictName NoCityName       0         NONE      2021      0         
