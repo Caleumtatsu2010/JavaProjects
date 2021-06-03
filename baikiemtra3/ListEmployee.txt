@@ -1,0 +1,75 @@
+-------------- DANH SÁCH NHÂN VIÊN ( TỔNG SỐ: 71 ) -------------- 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+|ID MANAGE   |LAST NAME   |FIRST NAME  |AGE         |CITY NAME      |DISTRICT NAME  |STREET NAME    |NET         |POSITION    |APPL YEAR   |DEPART ID   |
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+|1           |Trương      |Thủy        |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|12          |Quách       |Mạnh Cương  |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|16          |Hoàng       |Thủy        |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|19          |Phan        |Trang       |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|38          |Vũ          |Bảo         |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|48          |Đoàn        |Vương Anh   |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|55          |Đoàn        |Vũ          |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|56          |Quách       |Minh Châu   |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|63          |Phùng       |Hưng        |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|64          |Đoàn        |Hưng        |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|69          |Phan        |Vũ          |18          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|2           |Phan        |Bảo Hân     |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|8           |Phan        |Anh         |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|27          |Lê          |Linh        |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|36          |Ngô         |Anh         |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|50          |Trần        |Tuấn Anh    |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|51          |Trương      |Châu        |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|52          |Hoàng       |Bảo Hân     |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|54          |Lê          |Mạnh Cương  |19          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|3           |Vũ          |Bảo         |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|5           |Lưu         |Minh        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|6           |Trần        |Châu        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|11          |Đào         |Mạnh Cương  |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|15          |Hoàng       |Tài         |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|25          |Nguyễn      |Hòa         |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|26          |Trần        |Hòa         |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|29          |Trương      |Linh        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|31          |Nguyễn      |Linh        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|34          |Đoàn        |Hòa         |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|39          |Trương      |Mạnh Cương  |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|45          |Ngô         |Hưng        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|47          |Đoàn        |Vương Anh   |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|59          |Quách       |Hưng        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|61          |Vũ          |Bảo Yến     |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|62          |Đoàn        |Linh        |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|70          |Đào         |Vương Anh   |20          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|0           |Lê          |Linh        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|4           |Ngô         |Vương Anh   |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|10          |Hoàng       |Minh Châu   |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|20          |Ngô         |Hùng        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|28          |Quách       |Anh         |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|30          |Phạm        |Minh        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|32          |Quách       |Tuấn Anh    |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|33          |Phùng       |Hùng        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|41          |Vũ          |Minh        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|42          |Trần        |Anh Tuấn    |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|46          |Nguyễn      |Vương Anh   |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|49          |Lưu         |Minh        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|53          |Vũ          |Châu        |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|57          |Vũ          |Trang       |21          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|7           |Phan        |Tuấn Anh    |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|9           |Lưu         |Hòa         |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|13          |Vũ          |Cương       |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|14          |Phạm        |Cương       |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|17          |Vũ          |Vũ          |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|18          |Trương      |Hưng        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|21          |Phan        |Vương Anh   |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|22          |Phùng       |Bảo         |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|23          |Trương      |Anh Tuấn    |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|24          |Lưu         |Hùng        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|35          |Phạm        |Minh        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|37          |Vũ          |Bảo         |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|40          |Lương       |Bảo Hân     |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|43          |Phạm        |Linh        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|44          |Đoàn        |Cương       |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|58          |Phùng       |Thủy        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|60          |Quách       |Trang       |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|65          |Phùng       |Hùng        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|66          |Ngô         |Trang       |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|67          |Phùng       |Hưng        |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
+|68          |Quách       |Anh         |22          |No CityName    |No DistrictName|No StreetName  |0           |NONE        |2000        |10          |
